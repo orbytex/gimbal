@@ -37,6 +37,24 @@ Gimbal is distributed as a **self-contained portable runtime**, meaning:
 
 Runtime and application updates are versioned and delivered through **GitHub Releases**.
 
+
+---
+
+
+## 📚 Documentation
+
+Full product documentation, usage guides, and technical reference are available at:
+
+👉 **[https://gimbal-docs.netlify.app](https://gimbal-docs.netlify.app)**
+
+This site includes:
+
+* installation and onboarding guides
+* CLI usage and command reference
+* update and deployment documentation
+
+---
+
 ## 🧩 Intended Usage
 
 Release artifacts in this repository are consumed by:
@@ -83,3 +101,9 @@ For release-related issues:
 
 * add a **Release Policy / retention section**
 * or generate a **short minimal 5-line README** for corporate environments.
+
+
+Sure — here is the updated **Markdown README** with a dedicated Documentation section and your docs URL included.
+
+You can paste this directly into `README.md`.
+
